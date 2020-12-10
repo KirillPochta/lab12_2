@@ -1,0 +1,7 @@
+C:\Users\ByTech\source\repos\Lab12Reflexion\Lab12Reflexion\bin\Debug\Lab12Reflexion.exe.config
+C:\Users\ByTech\source\repos\Lab12Reflexion\Lab12Reflexion\bin\Debug\Lab12Reflexion.exe
+C:\Users\ByTech\source\repos\Lab12Reflexion\Lab12Reflexion\bin\Debug\Lab12Reflexion.pdb
+C:\Users\ByTech\source\repos\Lab12Reflexion\Lab12Reflexion\obj\Debug\Lab12Reflexion.csprojAssemblyReference.cache
+C:\Users\ByTech\source\repos\Lab12Reflexion\Lab12Reflexion\obj\Debug\Lab12Reflexion.csproj.CoreCompileInputs.cache
+C:\Users\ByTech\source\repos\Lab12Reflexion\Lab12Reflexion\obj\Debug\Lab12Reflexion.exe
+C:\Users\ByTech\source\repos\Lab12Reflexion\Lab12Reflexion\obj\Debug\Lab12Reflexion.pdb
